@@ -1,0 +1,22 @@
+.types {
+  margin-top: 10px;
+}
+.types div {
+  margin-top: 10px;
+}
+.subNameSpace {
+  padding-left: 30px;
+  font-weight: bold;
+  color: blue;
+}
+
+.parameter {
+  padding-left: 60px;
+  font-weight: bold;
+  color: black;
+}
+
+.nameSpace {
+  color: crimson;
+  font-weight: bold;
+}
